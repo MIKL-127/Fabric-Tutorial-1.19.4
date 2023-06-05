@@ -1,0 +1,26 @@
+{
+  "item.tutorialmod.citrine": "Citrin",
+  "item.tutorialmod.raw_citrine": "Rohes Citrin",
+  "item.tutorialmod.tiger_spawn_egg": "Tiger Spawn Ei",
+  "item.tutorialmod.animated_item": "Animiertes Item",
+
+  "item.tutorialmod.amethyst_helmet": "Amethyst Helm",
+  "item.tutorialmod.amethyst_chestplate": "Amethyst Brustplatte",
+  "item.tutorialmod.amethyst_leggings": "Amethyst Hose",
+  "item.tutorialmod.amethyst_boots": "Amethyst Schuhe",
+
+  "block.tutorialmod.citrine_block": "Citrin Block",
+  "block.tutorialmod.citrine_ore": "Citrine Erz",
+  "block.tutorialmod.deepslate_citrine_ore": "Tiefenschiefer Citrin Erz",
+  "block.tutorialmod.animated_block": "Animierter Block",
+
+  "block.tutorialmod.red_maple_log": "Roter Ahorn Stamm",
+  "block.tutorialmod.red_maple_wood": "Rotes Ahorn Holz",
+  "block.tutorialmod.stripped_red_maple_log": "Stripped Roter Ahorn Stamm",
+  "block.tutorialmod.stripped_red_maple_wood": "Stripped Rotes Ahorn Holz",
+  "block.tutorialmod.red_maple_planks": "Rotes Ahorn Bretter",
+  "block.tutorialmod.red_maple_leaves": "Rotes Ahorn Blätter",
+  "block.tutorialmod.red_maple_sapling": "Rotes Ahorn Setzling",
+
+  "itemgroup.citrine": "Citrin Item Gruppe"
+}
